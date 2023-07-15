@@ -1,4 +1,4 @@
-# SmartWatch-with-time
+# Watch-with-time-and-temperature
 
 There are 2 functions on this watch:
 - it tells time and date.
