@@ -1,5 +1,5 @@
 # SmartWatch-with-time
 
-There are 2 functions on this watch
-- It tells time and date.
-- It gives you temperature at your local position and time (from https://api.openweathermap.org/)
+There are 2 functions on this watch:
+- it tells time and date.
+- it gives you temperature at your local position and time (from https://api.openweathermap.org/) *just allow the web browser to locate you to see it*
